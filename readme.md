@@ -3,9 +3,7 @@
 
 # Operations  
 
-* Set first name, middle name and last name  
-* Get first name, middle name and last name  
-* Display full name  
+* Display sound of animals    
 
   
 # Usage  
